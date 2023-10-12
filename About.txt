@@ -1,0 +1,20 @@
+API:
+
+Application Program Interface
+Structures request and response b/w client and server - Acts as an server(ie like a restaurant waiter) between client and server 
+
+REST:
+
+Representational State Transfer
+Architecture style for designing networked applications
+Relies on HTTP
+REST can be used by many languages(PHP,Laravel,C# etc.) to design architecture for request and response managing
+
+HTTP Methods:
+
+GET: Retrieve data
+POST: Process the submited data
+PUT: Update a specified resource
+DELETE: Delete a specified resource
+HEAD,OPTIONS,PATCH
+
